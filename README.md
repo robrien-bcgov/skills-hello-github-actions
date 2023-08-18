@@ -45,6 +45,7 @@ Your new action will run any time a pull request has been opened.
 -->
 
 ---
+TESTING TRIGGER WORKFLOW ACTION STEPS: 😸
 
 Get help: [Post in our discussion board](https://github.com/skills/.github/discussions) &bull; [Review the GitHub status page](https://www.githubstatus.com/)
 
